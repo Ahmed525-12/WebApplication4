@@ -1,0 +1,36 @@
+﻿@model EmployeeVM
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1 class="h1 p-4"> you sure to Delete @Model.Name Department</h1>
+<form asp-action="delete">
+
+    @if (@Model.ImageName is not null)
+    {
+     <div class="form-group">
+
+            <img  src="~/Files/Images/@Model.ImageName" class="rounded" width="100"height="100"/>
+                <input readonly asp-for="ImageName" hidden class="form-control">
+            </div>
+    }
+
+<div class="form-group">
+    <label asp-for="Name"></label>
+    <input readonly asp-for="Name" class="form-control">
+</div>
+<div class="form-group">
+    <label asp-for="Email"></label>
+        <input readonly class="form-control" asp-for="Email">
+
+</div>
+
+<div class="form-group">
+    <label asp-for="DateOfCreation"></label>
+    <input readonly class="form-control" asp-for="DateOfCreation">
+
+</div>
+
+<button type="submit" class="btn btn-danger">Delete Page</button>
+<a type="button" class="btn btn-outline-info" asp-action="Index">Back To List</a>
+</form>

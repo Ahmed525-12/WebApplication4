@@ -1,0 +1,12 @@
+D:\leran poragraming back-end\.NET\WebApplication4\DAL\bin\Debug\net5.0\DAL.deps.json
+D:\leran poragraming back-end\.NET\WebApplication4\DAL\bin\Debug\net5.0\DAL.dll
+D:\leran poragraming back-end\.NET\WebApplication4\DAL\bin\Debug\net5.0\DAL.pdb
+D:\leran poragraming back-end\.NET\WebApplication4\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\leran poragraming back-end\.NET\WebApplication4\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\leran poragraming back-end\.NET\WebApplication4\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\leran poragraming back-end\.NET\WebApplication4\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\leran poragraming back-end\.NET\WebApplication4\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\leran poragraming back-end\.NET\WebApplication4\DAL\obj\Debug\net5.0\DAL.dll
+D:\leran poragraming back-end\.NET\WebApplication4\DAL\obj\Debug\net5.0\refint\DAL.dll
+D:\leran poragraming back-end\.NET\WebApplication4\DAL\obj\Debug\net5.0\DAL.pdb
+D:\leran poragraming back-end\.NET\WebApplication4\DAL\obj\Debug\net5.0\ref\DAL.dll

@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BLL",
+    "\\BLL\\bin",
+    "\\BLL\\bin\\Debug",
+    "\\DAL",
+    "\\DAL\\Contexts",
+    "\\DAL\\Models",
+    "\\WebApplication4",
+    "\\WebApplication4\\Views",
+    "\\WebApplication4\\Views\\Department"
+  ],
+  "SelectedNode": "\\DAL\\Models\\Department.cs",
+  "PreviewInSolutionExplorer": false
+}
